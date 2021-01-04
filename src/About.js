@@ -12,21 +12,34 @@ class About extends React.Component {
                     <br />Then I've developed a Forum for Cyber Security Enthusiasts using (Django and React)
                     <br />I've also written Encryption and Steganography scripts using python.
                 </p>
-                <p>
+                <div>
                     <b>Frontend Technologies I Know</b>
                     <ul>
                         <li>React + Redux</li>
                         <li>Bootstrap</li>
                     </ul>
-                </p>
-                <p>
+                </div>
+                <div>
                     <b>Backend Technologies I Know</b>
                     <ul>
                         <li>Django</li>
                         <li>PHP</li>
                         <li>Node.js</li>
                     </ul>
-                </p>
+                </div>
+
+                <div>
+                    <b>Database</b>
+                    <ul>
+                        <li>MySQL</li>
+                        <li>PostgresSQL</li>
+                        <li>MongoDB</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <b>Operating System: </b> Linux
+                </div>
             </div>
         )
     }
